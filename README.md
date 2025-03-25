@@ -1,5 +1,8 @@
 # JogoXadrezCsharp
 
+![image](https://github.com/user-attachments/assets/c67da84d-d388-4a9e-a5c0-a8268b495bbe)
+
+
 📝 Descrição do código – Classe JogoDaVelha em C#
 Este código implementa um jogo da velha em modo console utilizando a linguagem C#. O jogo é para dois jogadores (X e O), alternando as jogadas até que haja um vencedor ou empate.
 
